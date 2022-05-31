@@ -1,0 +1,5 @@
+import random as guru
+out=guru.random()
+a=str(out)[-4:]
+print(a)
+print(out)
